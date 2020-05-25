@@ -68,7 +68,7 @@ class MyHomePage extends StatelessWidget {
         //registrar img assets en pubspec.yaml
       ),
       //body: Center(child: Text("Hola Mierda!")),
-      body: Center(child: Text("Hola Mierda!")),
+      body: Center(child: Text("Hola Mierda 2!")),
     );
   }
 }
